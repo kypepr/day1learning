@@ -1,1 +1,9 @@
 It was the best of times, it was the worst of time
+
+summary git command :
+1. git init
+2. git status
+3. git add chapter1.txt
+4. git commit -m "Initial Commit"
+5. git log
+
