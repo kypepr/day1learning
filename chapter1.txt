@@ -6,5 +6,27 @@ summary git command :
 3. git add chapter1.txt
 4. git commit -m "Initial Commit"
 5. git log
-6. add more than 1 fil : git add .
+6. add more than 1 files : git add .
+7. git diff chapter3.txt
+8. git checkout chapter3.txt
 
+GITHUB
+1. create new repository
+2. https://github.com/kypepr/day1learning.git
+3. git remote add origin https://github.com/kypepr/day1learning.git
+4. 
+--git branch -M main
+5. git push -u origin main
+
+GITIGNORE
+1. git rm --cached -r .  : Remove from staging area after git add
+2. create file .GITIGNORE
+3. list file that need to ignore in those file. .DS_Store secret.txt
+4. default reference for gitignore: github.com/github/gitignore/blob/main
+
+CLONING
+1. git clone url
+2. sample URL : github.com/ritik48/Wordle-Game https://github.com/ritik48/Wordle-Game.git
+3. list other open source code : https://github.com/MunGell/awesome-for-beginners
+
+BRANCHING and MERGING
