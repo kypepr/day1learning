@@ -30,3 +30,10 @@ CLONING
 3. list other open source code : https://github.com/MunGell/awesome-for-beginners
 
 BRANCHING and MERGING
+1. git branch alien-plot
+2. git branch
+3. git checkout alien-plot
+4. go back to main branch : git checkout main  --> switched to branch "main"
+5. git merge alien-plot
+
+FORKING and PULL request
