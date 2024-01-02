@@ -6,4 +6,5 @@ summary git command :
 3. git add chapter1.txt
 4. git commit -m "Initial Commit"
 5. git log
+6. add more than 1 fil : git add .
 
